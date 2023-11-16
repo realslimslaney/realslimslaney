@@ -1,5 +1,4 @@
 #### Pulling in stock data with python
-
 import polars as pl
 import yfinance as yf
 
