@@ -1,0 +1,1 @@
+"""Analyzing foreign exchange rates."""
