@@ -1,6 +1,6 @@
 -  Hi, I’m @realslimslaney
 -  I’m interested in using github to create more complex tools for personal use
--  I’m currently learning Python (polars) and R
+-  I currently use Python, Julia and R primarily
 -  Email: bslaney7@gmail.com
 
 <!---
