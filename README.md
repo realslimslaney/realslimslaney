@@ -2,15 +2,15 @@
 
 > FSA · CFA Level III candidate · HBS MBA Class of 2028
 
-I build small tools, mostly for myself, at the intersection of finance, weather, and personal workflow. A few graduate into their own repos; most stay sandboxes.
+I build small tools, mostly for myself, at the intersection of finance, weather, and personal workflow.
 
 ---
 
 ### Areas I keep coming back to
 
-- **Financial modeling** — long-horizon questions about capital, liabilities, and risk.
-- **Climate & weather visualization** — making physical-risk data legible without flattening it.
-- **Tools to improve daily processes** — small utilities that remove friction from study, research, and decision-making.
+- **Financial modeling** 
+- **Climate & weather visualization** 
+- **Tools to improve daily processes** 
 
 ### Stack
 
