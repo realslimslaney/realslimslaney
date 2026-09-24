@@ -1,6 +1,6 @@
 # Brennen Slaney
 
-> FSA · CFA Level III candidate · HBS MBA Class of 2028
+> HBS MBA Class of 2028 · FSA · CFA Level III candidate 
 
 I build small tools, mostly for myself, at the intersection of finance, weather, and personal workflow.
 
