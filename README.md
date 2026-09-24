@@ -18,7 +18,7 @@ Python-first: `polars`, `uv`, `ruff`, `just`. Occasional Julia and R.
 
 ### Elsewhere
 
-[bslaney7@gmail.com](mailto:bslaney7@gmail.com) · [LinkedIn](https://linkedin.com/in/brennen-slaney)
+[bslaney7@gmail.com](mailto:bslaney7@gmail.com) · [LinkedIn](https://linkedin.com/in/brennen-slaney) · [Personal Site](brennenslaney.com)
 
 
 <!---
